@@ -1,3 +1,8 @@
+"""
+This repository demonstrates engineering patterns and image-quality
+analysis techniques and is not intended to run out-of-the-box.
+"""
+
 # Data manipulation and analysis
 import pandas as pd
 import numpy as np
@@ -915,4 +920,5 @@ def launch_gui():
 
 
 if __name__ == "__main__":
+
     launch_gui()
