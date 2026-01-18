@@ -70,6 +70,15 @@ All company-specific data, credentials, and internal systems have been intention
 - Content quality auditing pipelines
 
 ---
+## Why This Matters
+
+In large image catalogs, image quality issues directly impact:
+- Customer trust and conversion rates
+- Search and discovery performance
+- Operational efficiency for content teams
+
+This pipeline was designed to surface these issues early and at scale,
+without relying on manual inspection.
 
 ## 👤 Author
 
