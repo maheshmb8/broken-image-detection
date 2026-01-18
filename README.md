@@ -47,3 +47,30 @@ This project demonstrates a scalable and resilient approach to image quality val
 
 ## 📁 Repository Contents
 appgit.py # Core pipeline logic and image analysis heuristics
+
+
+## ⚠️ Important Note
+
+> This repository is intended to showcase **engineering patterns and image-quality analysis techniques**.
+>
+> It is **not designed to run out-of-the-box** without adapting:
+> - Data sources
+> - Environment variables
+> - Credentials or infrastructure
+
+All company-specific data, credentials, and internal systems have been intentionally excluded.
+
+---
+
+## 🚀 Use Cases
+
+- E-commerce image quality validation
+- Catalog health monitoring
+- Duplicate asset detection
+- Content quality auditing pipelines
+
+---
+
+## 👤 Author
+
+Mahesh Bathija
